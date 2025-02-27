@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-sans antialiased;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  background-attachment: fixed;
+}
+
+/* 添加更多全局样式 */
+@layer base {
+  ::selection {
+    @apply bg-blue-100 text-blue-800;
+  }
+}
+
+/* 平滑滚动和过渡 */
+html {
+  scroll-behavior: smooth;
+}
+
+/* 自定义滚动条 */
+::-webkit-scrollbar {
+  @apply w-2 bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-blue-300 rounded-full;
+} 

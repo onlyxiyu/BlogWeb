@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"index.js -> ../components/GameModal\":{\"id\":\"index.js -> ../components/GameModal\",\"files\":[\"static/chunks/components_GameModal_js.js\"]}}"
