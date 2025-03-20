@@ -2,5 +2,8 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/threat-map": "pages/threat-map.js",
+  "/api/real-threats": "pages/api/real-threats.js",
+  "/": "pages/index.js",
+  "/api/server-location": "pages/api/server-location.js"
 }

@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{\"index.js -> ../components/GameModal\":{\"id\":\"index.js -> ../components/GameModal\",\"files\":[\"static/chunks/components_GameModal_js.js\"]}}"
+self.__REACT_LOADABLE_MANIFEST="{\"index.js -> ../components/GameModal\":{\"id\":\"index.js -> ../components/GameModal\",\"files\":[\"static/chunks/components_GameModal_js.js\"]},\"threat-map.js -> ../components/ThreatMapLeaflet\":{\"id\":\"threat-map.js -> ../components/ThreatMapLeaflet\",\"files\":[\"static/chunks/components_ThreatMapLeaflet_js.js\"]}}"
